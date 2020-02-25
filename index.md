@@ -1,5 +1,5 @@
 ## About
-The IvI P(h)D council was established in early 2020 as an initiative proposed by the P(h)D community of IvI. Our task is to care for the interest of PhD candidates and postocs of the [Informatics Institute](https://ivi.uva.nl) at the [University of Amsterdam](https://www.uva.nl).
+The IvI P(h)D council was established in early 2020 as an initiative proposed by the PhD and postdoc community of IvI. Our task is to care for the interest of PhD candidates and postdocs of the [Informatics Institute](https://ivi.uva.nl) at the [University of Amsterdam](https://www.uva.nl).
 
 The mission of the IvI P(h)D council is twofold: (1) create a sense of community among IvI PhDs and postdocs, and (2) provide a voice and a platform for them to address issues and relevant topics.
 
