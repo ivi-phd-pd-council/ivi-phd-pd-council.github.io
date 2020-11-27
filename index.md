@@ -6,18 +6,23 @@ The mission of the IvI P(h)D council is twofold: (1) create a sense of community
 
 ## Members
 <img src="jori.jpg" alt="drawing" width="200"/>
+
 Jori Hoencamp is a PhD candidate at the [Computational Science Lab](https://ivi.uva.nl/content/research-groups/computational-science/computational-science.html). His research evolves around computational finance and focuses on models for FX and interest rates. On the council he looks forward to organising social activities for PhDs by PhDs.
 
 <img src="shaojie.jpg" alt="drawing" width="200"/>
+
 Shaojie Jiang is a 4th year PhD candidate in [Information Retrieval Lab](https://ilps.science.uva.nl). His research topic is Open-domain Dialogue Systems (check his [personal homepage](https://shaojiejiang.github.io/) for more details). He is also very interested in photography.
 
 <img src="sara.jpg" alt="drawing" width="200"/>
+
 Sara Shakeri is a PhD candidate in the [Systems and Networking Lab](https://ivi.fnwi.uva.nl/sne/people/mns-people/).
 
 <img src="shuo.jpg" alt="drawing" width="200"/>
+
 Shuo Chen is a PhD candidate at [Video & Image Sense Lab](https://ivi.fnwi.uva.nl/vislab/) under the supervision of Prof. Cees Snoek and dr. Pascal Mettes. For more details see his [academic homepage](https://staff.fnwi.uva.nl/s.chen3/).
 
 <img src="david.jpg" alt="drawing" width="200"/>
+
 David Stap is a PhD candidate in the Language Technology Lab, under the supervision of dr. Christof Monz. He is working on multilingual machine translation and aims to improve translation quality for low-resource languages. See [his website](https://davidstap.github.io) for more details.
 
 ## Join us
