@@ -15,15 +15,15 @@ Shaojie Jiang is a 4th year PhD candidate in [Information Retrieval Lab](https:/
 
 <img src="sara.jpg" alt="drawing" width="200"/>
 
-Sara Shakeri is a PhD candidate in the [Systems and Networking Lab](https://ivi.fnwi.uva.nl/sne/people/mns-people/).
+Sara Shakeri is a 3th year Ph.D candidate in [MultiScale Networked Systems Lab](https://ivi.fnwi.uva.nl/sne/research/mns/) under supervision of Dr. Paola Grosso. Her research is about programmable networks and network virtualisation. She is interested in organising social activities and also a big fan of travelling.
 
 <img src="shuo.jpg" alt="drawing" width="200"/>
 
-Shuo Chen is a PhD candidate at [Video & Image Sense Lab](https://ivi.fnwi.uva.nl/vislab/) under the supervision of Prof. Cees Snoek and dr. Pascal Mettes. For more details see his [academic homepage](https://staff.fnwi.uva.nl/s.chen3/).
+Shuo Chen is a PhD candidate at [Video & Image Sense Lab](https://ivi.fnwi.uva.nl/vislab/) under the supervision of Prof. Cees Snoek and Dr. Pascal Mettes. For more details see his [academic homepage](https://staff.fnwi.uva.nl/s.chen3/).
 
 <img src="david.jpg" alt="drawing" width="200"/>
 
-David Stap is a PhD candidate in the Language Technology Lab, under the supervision of dr. Christof Monz. He is working on multilingual machine translation and aims to improve translation quality for low-resource languages. See [his website](https://davidstap.github.io) for more details.
+David Stap is a PhD candidate in the Language Technology Lab, under the supervision of Dr. Christof Monz. He is working on multilingual machine translation and aims to improve translation quality for low-resource languages. See [his website](https://davidstap.github.io) for more details.
 
 ## Join us
 The IvI P(h)D Council has recently been started, and we are recruiting. We seek to improve the experience of PhDs and postdocs during their time at IvI in a broad variety of ways. These includ  e:
