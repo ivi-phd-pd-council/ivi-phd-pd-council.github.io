@@ -6,8 +6,7 @@ The mission of the IvI P(h)D council is twofold: (1) create a sense of community
 ## Members
 photo
 
-![image](jori.jpg)
-
+![](jori.jpg =250x)
 
 Jori Hoencamp is a PhD candidate at the [Computational Science Lab](https://ivi.uva.nl/content/research-groups/computational-science/computational-science.html). His research evolves around computational finance and focuses on models for FX and interest rates. On the council he looks forward to organising social activities for PhDs by PhDs.
 
